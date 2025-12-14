@@ -44,18 +44,46 @@ Uses product view correlation to identify bundle opportunities. Example: "70% of
 
 ## Demo & Sample Results
 
-### Traffic Light Status
-The dashboard categorizes all products into three groups:
-- **Red (Cut)**: Products recommended for discontinuation (e.g., 28 products)
-- **Yellow (Watch)**: Products needing attention (e.g., 17 products)
-- **Green (Winners)**: Profitable, fast-moving products (e.g., 55 products)
+### Dashboard Overview
 
-### Summary Metrics
-Example output from a typical analysis:
+The dashboard provides a comprehensive view of your product performance with actionable insights:
+
+**Traffic Light Status:**
+- **Red (Cut)**: 28 products recommended for discontinuation
+- **Yellow (Watch)**: 17 products needing attention
+- **Green (Winners)**: 55 products performing well
+
+**Summary Metrics:**
 - **Zombie Products**: 20 SKUs identified, freeing $243,223 in working capital
 - **Money Losers**: 9 SKUs losing money, totaling $7,682 in losses
 - **Slow Movers**: 48 SKUs with excessive inventory, totaling $810,864 in value
-- **Bundle Opportunities**: Identified potential bundles with revenue opportunities
+- **Bundle Opportunities**: Potential bundles identified with revenue opportunities
+
+### Sample Data Analysis
+
+The dashboard displays detailed product information including:
+- SKU identifiers
+- Product names and categories
+- Launch dates and days since launch
+- Revenue and units sold (30/60/90 day windows)
+- Pricing information
+- Performance scores
+
+Example product data shown:
+- **SKU-0001**: Product 1 (Books category)
+  - Launch Date: September 2025
+  - Days Since Launch: 84
+  - 30-Day Revenue: $2,618.54
+  - 30-Day Units: 33
+  - Performance Score: 0.58
+
+### Key Features Demonstrated
+
+1. **Visual Traffic Light System**: Quick identification of product health
+2. **Financial Impact Cards**: Immediate visibility into capital tied up and losses
+3. **Detailed Analysis Tabs**: Deep dive into each analysis dimension
+4. **Actionable Recommendations**: Prioritized list of actions with financial impact
+5. **Interactive Tables**: Sortable, filterable product data with highlighting
 
 ### Key Outputs
 
