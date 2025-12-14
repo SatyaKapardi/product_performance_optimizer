@@ -1,3 +1,6 @@
+
+<img width="1326" height="690" alt="Screenshot 2025-12-13 at 8 57 18 PM" src="https://github.com/user-attachments/assets/6692e0d1-c9a2-475f-9c6e-96e2254172f8" />
+
 # Product Performance & Assortment Optimizer
 
 A comprehensive analytics tool that analyzes SKUs across 6 dimensions to provide actionable recommendations for retailers selling on Amazon, Shopify, and WordPress/WooCommerce.
